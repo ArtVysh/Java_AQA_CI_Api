@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/ArtVysh/API-CI-Echo/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/ArtVysh/API-CI-Echo/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/ArtVysh/Java_AQA_CI_Api/actions/workflows/gradle.yml/badge.svg)](https://github.com/ArtVysh/Java_AQA_CI_Api/actions/workflows/gradle.yml)
